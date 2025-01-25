@@ -19,11 +19,9 @@ public class Wind : MonoBehaviour
 
     void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log("Ç»Ç…");
         if (collision.gameObject.tag == "Player")
         {
             Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
-            Debug.Log("è„Ç…çsÇØÇÈÇ©Ç»");
             if (rb != null)
             {
                 Vector3 pos = collision.transform.position;
@@ -37,7 +35,6 @@ public class Wind : MonoBehaviour
                 {
                     rb.AddForce(windDirection * windPower * Time.deltaTime * (1.0f - (distance / sizeY)));
                 }
-                Debug.Log("è„Ç…çsÇ≠");
             }
         }
     }
