@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: 51783542fb00acf42ae902bdb30fdfef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8252327063470082926
+    second: BubblyPenguin_2_0
+  - first:
+      213: 2224842454032107892
+    second: BubblyPenguin_2_1
+  - first:
+      213: -5587139619737657913
+    second: BubblyPenguin_2_2
+  - first:
+      213: -3803327188012040411
+    second: BubblyPenguin_2_3
+  - first:
+      213: -5154751312260547513
+    second: BubblyPenguin_2_4
+  - first:
+      213: 5394115636158363560
+    second: BubblyPenguin_2_5
+  - first:
+      213: -2162825341525429755
+    second: BubblyPenguin_2_6
+  - first:
+      213: 7708217914057666569
+    second: BubblyPenguin_2_7
+  - first:
+      213: 3588534656256987010
+    second: BubblyPenguin_2_8
+  - first:
+      213: 5905840365810126387
+    second: BubblyPenguin_2_9
+  - first:
+      213: 3201419647715644611
+    second: BubblyPenguin_2_10
+  - first:
+      213: -6716964760194782165
+    second: BubblyPenguin_2_11
+  - first:
+      213: -7486321835199321178
+    second: BubblyPenguin_2_12
+  - first:
+      213: 7958637431957363271
+    second: BubblyPenguin_2_13
+  - first:
+      213: -9074237962532307259
+    second: BubblyPenguin_2_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BubblyPenguin_2_0
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 734
+        width: 135
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b0a74ddb7268270800000000000000
+      internalID: 8252327063470082926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 733
+        width: 168
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479cac99c6a30ee10800000000000000
+      internalID: 2224842454032107892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 732
+        width: 110
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd96072e1e7672b0800000000000000
+      internalID: -5587139619737657913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_3
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 732
+        width: 110
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ff4f9c21ed73bc0800000000000000
+      internalID: -3803327188012040411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 733
+        width: 33
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3b371ef4a678b0800000000000000
+      internalID: -5154751312260547513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_5
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 669
+        width: 283
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a77992879fbbda40800000000000000
+      internalID: 5394115636158363560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 116
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502f92f9fc91cf1e0800000000000000
+      internalID: -2162825341525429755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 480
+        width: 104
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900b5ba5a5719fa60800000000000000
+      internalID: 7708217914057666569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 635
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f406ac1490dc130800000000000000
+      internalID: 3588534656256987010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 243
+        width: 249
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e8640b582c5f150800000000000000
+      internalID: 5905840365810126387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 101
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41c0f253abd6c20800000000000000
+      internalID: 3201419647715644611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 195
+        width: 250
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ce5cb732c88c2a0800000000000000
+      internalID: -6716964760194782165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 481
+        width: 105
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aba1b284fd3b1890800000000000000
+      internalID: -7486321835199321178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_13
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 481
+        width: 33
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a12f3e392c27e60800000000000000
+      internalID: 7958637431957363271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BubblyPenguin_2_14
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 207
+        width: 286
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb5e386a4d11280800000000000000
+      internalID: -9074237962532307259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
