@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 5f75182638f2344b5adb22ecd7a8a78c
+guid: b66fa42af535c874dbd2f43df574da28
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5565916467070798884
-    second: fan_0_0
+      213: -1569843302936301935
+    second: iron_frame_red_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 400
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fan_0_0
+      name: iron_frame_red_0
       rect:
         serializedVersion: 2
-        x: 48
-        y: 16
-        width: 392
-        height: 285
+        x: 0
+        y: 13
+        width: 256
+        height: 229
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42c804d898b1e3d40800000000000000
-      internalID: 5565916467070798884
+      spriteID: 19ea47755dbc63ae0800000000000000
+      internalID: -1569843302936301935
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fan_0_0: 5565916467070798884
+      iron_frame_red_0: -1569843302936301935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
