@@ -7,13 +7,35 @@ public class Player:MonoBehaviour
 {
     [SerializeField] private float playerSpeed;
     [SerializeField] private Rigidbody2D rigidbody2D;
+
+    SpriteRenderer spriteRenderer;
+    PlayerHitWall playerHit;
     private float inputHorizontal;
     private int itemCount = 0;
     private const float kGravity = 9.8f;
-
+    private void Start()
+    {
+        spriteRenderer = GetComponent<SpriteRenderer>();
+        playerHit = GetComponent<PlayerHitWall>();
+    }
     private void Update()
     {
-        inputHorizontal = Input.GetAxis("Horizontal");
+        if (!playerHit.GetIsBurst())
+        {
+            inputHorizontal = Input.GetAxis("Horizontal");
+        }
+        else
+        {
+            inputHorizontal = 0.0f;
+        }
+        if(inputHorizontal < 0)
+        {
+            spriteRenderer.flipX = true;
+        }
+        else if(inputHorizontal > 0) 
+        {
+            spriteRenderer.flipX = false;
+        }
     }
 
     private void FixedUpdate()
