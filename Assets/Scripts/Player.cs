@@ -21,4 +21,13 @@ public class Player:MonoBehaviour
         rigidbody2D.AddForce(Vector2.right * inputHorizontal * playerSpeed);
         rigidbody2D.AddForce(Vector2.up * rigidbody2D.mass * kGravity / (itemCount + 1.05f));
     }
+    
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Item"))
+        {
+            other.gameObject.SetActive(false);
+            itemCount++;
+        }
+    }
 }
