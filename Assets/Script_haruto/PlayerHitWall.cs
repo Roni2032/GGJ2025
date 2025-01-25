@@ -24,6 +24,7 @@ public class PlayerHitWall : MonoBehaviour
         if (isBurst) return;
         bubble.Burst();
         animator.SetTrigger("burst");
+
         isBurst = true;
         GetComponent<CircleCollider2D>().radius = afterBurstCollisionRadius;
     }
