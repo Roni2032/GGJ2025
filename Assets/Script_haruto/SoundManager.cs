@@ -8,11 +8,12 @@ public class SoundManager : MonoBehaviour
     AudioSource audioSource;
 
     [SerializeField]
-    List<AudioClip> clips;
+    List<AudioClip> clips = new List<AudioClip>();
 
     public enum SE
     {
-
+        BUBBLE,
+        WIND
     }
     
     static SoundManager instance;
