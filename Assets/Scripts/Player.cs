@@ -40,7 +40,10 @@ public class Player:MonoBehaviour
 
     private void FixedUpdate()
     {
+        // 左右移動
         rigidbody2D.AddForce(Vector2.right * inputHorizontal * playerSpeed);
+        
+        // 上方向に重力未満の力を加えて、力を相殺
         rigidbody2D.AddForce(Vector2.up * rigidbody2D.mass * kGravity / (itemCount + 1.05f));
     }
     
