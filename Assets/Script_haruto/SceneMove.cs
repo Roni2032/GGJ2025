@@ -3,9 +3,11 @@ using UnityEngine.SceneManagement;
 
 public class SceneMove : MonoBehaviour
 {
+    [SerializeField]
+    string sceneName;
     public void Change()
     {
-        SceneManager.LoadScene(GameSceneManager.lastPlaySceneName);
+        SceneManager.LoadScene(sceneName);
     }
     void Start()
     {
