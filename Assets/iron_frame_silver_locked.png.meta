@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      iron_frame_silver_locked_0: 2558489377131686400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

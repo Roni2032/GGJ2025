@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      helium_0: -3250544652526196974
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
