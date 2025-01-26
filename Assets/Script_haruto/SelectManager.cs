@@ -28,14 +28,9 @@ public class SelectManager : MonoBehaviour
         {
             selectNumber++;
         }
-        if(selectList.Count <= selectNumber)
-        {
-            selectNumber = selectList.Count - 1;
-        }
-        if (selectNumber < 0)
-        {
-            selectNumber = 0;
-        }
+        selectNumber = Mathf.Max(0, selectNumber);
+        selectNumber = Mathf.Min(selectList.Count - 1, selectNumber);
+        
         for (int i = 0; i < selectList.Count; i++)
         {
             if (i == selectNumber)

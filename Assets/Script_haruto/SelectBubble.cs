@@ -30,10 +30,11 @@ public class SelectBubble : MonoBehaviour
         if (isSelect)
         {
             Vector3 pos = transform.position;
-            rad += Time.deltaTime * Mathf.PI * 2.0f;
+            const float PI_2 = Mathf.PI * 2.0f;
+            rad += Time.deltaTime * PI_2;
             pos.y = originPosition.y + Mathf.Sin(rad) * 0.1f;
 
-            if (rad > Mathf.PI * 2.0f)
+            if (rad > PI_2)
             {
                 rad = 0.0f;
             }
