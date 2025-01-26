@@ -12,6 +12,7 @@ public class SoundManager : MonoBehaviour
 
     public enum SE
     {
+        BOBBLE_BURST,
         BUBBLE,
         WIND
     }

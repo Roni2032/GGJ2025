@@ -8,7 +8,8 @@ public class Bubble : MonoBehaviour
     public void Burst()
     {
         isBurst = true;
-        Destroy(this.gameObject);
+        this.gameObject.SetActive(false);
+        SoundManager.GetInstance().PlaySE(SoundManager.SE.BOBBLE_BURST);
         //animator.SetTrigger("");
     }
     void Start()
@@ -23,7 +24,8 @@ public class Bubble : MonoBehaviour
         {
             if(animator.GetCurrentAnimatorStateInfo(0).normalizedTime > 1)
             {
-                Destroy(this.gameObject);
+                this.gameObject.SetActive(false);
+
             }
         }
     }

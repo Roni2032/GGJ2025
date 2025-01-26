@@ -21,6 +21,9 @@ public class Wind : MonoBehaviour
     {
         if (collision.gameObject.tag == "Player")
         {
+            PlayerHitWall hit = collision.gameObject.GetComponent<PlayerHitWall>();
+            if (hit.GetIsBurst()) return;
+
             Rigidbody2D rb = collision.gameObject.GetComponent<Rigidbody2D>();
             if (rb != null)
             {
