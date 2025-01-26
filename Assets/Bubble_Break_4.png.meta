@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 1ef28b44315bf8c47a52d81ee8398e6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5529748885438223928
+    second: Bubble_Break_4_0
+  - first:
+      213: 4590563818199727924
+    second: Bubble_Break_4_1
+  - first:
+      213: -2274339856598847244
+    second: Bubble_Break_4_2
+  - first:
+      213: 7723246760129633211
+    second: Bubble_Break_4_3
+  - first:
+      213: 7421406650547330259
+    second: Bubble_Break_4_4
+  - first:
+      213: 5685717182680052724
+    second: Bubble_Break_4_5
+  - first:
+      213: 3848225920531722309
+    second: Bubble_Break_4_6
+  - first:
+      213: -2888862386622668912
+    second: Bubble_Break_4_7
+  - first:
+      213: -5631432412239358
+    second: Bubble_Break_4_8
+  - first:
+      213: -8692926253205999111
+    second: Bubble_Break_4_9
+  - first:
+      213: 2028116054974770565
+    second: Bubble_Break_4_10
+  - first:
+      213: 8326281985399103646
+    second: Bubble_Break_4_11
+  - first:
+      213: 4000502322547977210
+    second: Bubble_Break_4_12
+  - first:
+      213: 6073123283983918179
+    second: Bubble_Break_4_13
+  - first:
+      213: -2587532514153584643
+    second: Bubble_Break_4_14
+  - first:
+      213: -5646558020341512972
+    second: Bubble_Break_4_15
+  - first:
+      213: 5103274652047795164
+    second: Bubble_Break_4_16
+  - first:
+      213: 2041946538673552816
+    second: Bubble_Break_4_17
+  - first:
+      213: -6677888814753023569
+    second: Bubble_Break_4_18
+  - first:
+      213: 309817917705475784
+    second: Bubble_Break_4_19
+  - first:
+      213: -1313848748333888241
+    second: Bubble_Break_4_20
+  - first:
+      213: 7570480554951064773
+    second: Bubble_Break_4_21
+  - first:
+      213: 8042754288870441386
+    second: Bubble_Break_4_22
+  - first:
+      213: -5211379786215687763
+    second: Bubble_Break_4_23
+  - first:
+      213: -1626170411840821682
+    second: Bubble_Break_4_24
+  - first:
+      213: 917473709833396720
+    second: Bubble_Break_4_25
+  - first:
+      213: 3723845434957890521
+    second: Bubble_Break_4_26
+  - first:
+      213: -2169008180574750182
+    second: Bubble_Break_4_27
+  - first:
+      213: 1135747066928114930
+    second: Bubble_Break_4_28
+  - first:
+      213: 498549052013225896
+    second: Bubble_Break_4_29
+  - first:
+      213: 2900703681753526267
+    second: Bubble_Break_4_30
+  - first:
+      213: 876892933584886790
+    second: Bubble_Break_4_31
+  - first:
+      213: -8643372904419912840
+    second: Bubble_Break_4_32
+  - first:
+      213: 8507690975388068390
+    second: Bubble_Break_4_33
+  - first:
+      213: -3216458217159557763
+    second: Bubble_Break_4_34
+  - first:
+      213: 8894850424088276926
+    second: Bubble_Break_4_35
+  - first:
+      213: -2040943780521381385
+    second: Bubble_Break_4_36
+  - first:
+      213: -161094383262951753
+    second: Bubble_Break_4_37
+  - first:
+      213: 3724574774594917869
+    second: Bubble_Break_4_38
+  - first:
+      213: 7351507432798676259
+    second: Bubble_Break_4_39
+  - first:
+      213: 2068750709384925444
+    second: Bubble_Break_4_40
+  - first:
+      213: 8343365487311499186
+    second: Bubble_Break_4_41
+  - first:
+      213: -4986291897033805787
+    second: Bubble_Break_4_42
+  - first:
+      213: -7008426073186722135
+    second: Bubble_Break_4_43
+  - first:
+      213: 3408190753675029238
+    second: Bubble_Break_4_44
+  - first:
+      213: 6795669644385104783
+    second: Bubble_Break_4_45
+  - first:
+      213: -570030473029514931
+    second: Bubble_Break_4_46
+  - first:
+      213: 1926097579540281404
+    second: Bubble_Break_4_47
+  - first:
+      213: -3953805559976588014
+    second: Bubble_Break_4_48
+  - first:
+      213: -1779868179475727451
+    second: Bubble_Break_4_49
+  - first:
+      213: 1371268273691477408
+    second: Bubble_Break_4_50
+  - first:
+      213: -163743203696014754
+    second: Bubble_Break_4_51
+  - first:
+      213: 4823462619826966745
+    second: Bubble_Break_4_52
+  - first:
+      213: -7508531886494966604
+    second: Bubble_Break_4_53
+  - first:
+      213: 7376062900884499647
+    second: Bubble_Break_4_54
+  - first:
+      213: 3094140282198372407
+    second: Bubble_Break_4_55
+  - first:
+      213: -349024339022818255
+    second: Bubble_Break_4_56
+  - first:
+      213: 3116023752747107553
+    second: Bubble_Break_4_57
+  - first:
+      213: 1167446264382348347
+    second: Bubble_Break_4_58
+  - first:
+      213: -6424247190728503357
+    second: Bubble_Break_4_59
+  - first:
+      213: 7291474762483780157
+    second: Bubble_Break_4_60
+  - first:
+      213: 7015390233705672710
+    second: Bubble_Break_4_61
+  - first:
+      213: -8850697546615694940
+    second: Bubble_Break_4_62
+  - first:
+      213: 1749438205939777554
+    second: Bubble_Break_4_63
+  - first:
+      213: 2596616413164530688
+    second: Bubble_Break_4_64
+  - first:
+      213: 1283360309006413341
+    second: Bubble_Break_4_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bubble_Break_4_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 238
+        width: 507
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83658ad305d9dbc40800000000000000
+      internalID: 5529748885438223928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 225
+        width: 91
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3e868875f4bf30800000000000000
+      internalID: 4590563818199727924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_2
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 233
+        width: 105
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f0b9ec43fbef60e0800000000000000
+      internalID: -2274339856598847244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 240
+        width: 59
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb9632420c7e2b60800000000000000
+      internalID: 7723246760129633211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 202
+        width: 122
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc589347022ef660800000000000000
+      internalID: 7421406650547330259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 211
+        width: 54
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3baf647a9b7ee40800000000000000
+      internalID: 5685717182680052724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 182
+        width: 186
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5407eb00615a76530800000000000000
+      internalID: 3848225920531722309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 223
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f5e5817f2b8e7d0800000000000000
+      internalID: -2888862386622668912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_8
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 214
+        width: 46
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aed77fd3efbeff0800000000000000
+      internalID: -5631432412239358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 194
+        width: 68
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f13dfa31a58c5780800000000000000
+      internalID: -8692926253205999111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 199
+        width: 95
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58da90c7ec0552c10800000000000000
+      internalID: 2028116054974770565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_11
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 179
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e90a277e955ec8370800000000000000
+      internalID: 8326281985399103646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 191
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe892baa3a48730800000000000000
+      internalID: 4000502322547977210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_13
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 167
+        width: 163
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e3033371184450800000000000000
+      internalID: 6073123283983918179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_14
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 183
+        width: 74
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df72a1143ec371cd0800000000000000
+      internalID: -2587532514153584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_15
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 186
+        width: 61
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f449e1b56563a1b0800000000000000
+      internalID: -5646558020341512972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 179
+        width: 73
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3609af14972d640800000000000000
+      internalID: 5103274652047795164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 182
+        width: 48
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdb9f7ee83765c10800000000000000
+      internalID: 2041946538673552816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 178
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97713018f5353a0800000000000000
+      internalID: -6677888814753023569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 179
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6d2e131c1bc4400800000000000000
+      internalID: 309817917705475784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d87f2468544cde0800000000000000
+      internalID: -1313848748333888241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 121
+        width: 314
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc3cd064ffbf0960800000000000000
+      internalID: 7570480554951064773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 138
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa14fd3d96a9d9f60800000000000000
+      internalID: 8042754288870441386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 158
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da976fc02b57da7b0800000000000000
+      internalID: -5211379786215687763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 153
+        width: 37
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e462af150aeae69e0800000000000000
+      internalID: -1626170411840821682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_25
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 163
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f121656a758bbc00800000000000000
+      internalID: 917473709833396720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_26
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 146
+        width: 81
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3002d71b1cda330800000000000000
+      internalID: 3723845434957890521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_27
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 142
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1afce93d8226e1e0800000000000000
+      internalID: -2169008180574750182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_28
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 131
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc21fe90fbf2cf00800000000000000
+      internalID: 1135747066928114930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_29
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 59
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a72b5ca8b33be600800000000000000
+      internalID: 498549052013225896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 127
+        width: 25
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff269541ae514820800000000000000
+      internalID: 2900703681753526267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 122
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c90642a795b2c00800000000000000
+      internalID: 876892933584886790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_32
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 122
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87390d253229c0880800000000000000
+      internalID: -8643372904419912840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 114
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a6dcecdd3611670800000000000000
+      internalID: 8507690975388068390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 102
+        width: 109
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d71530b48dc53d0800000000000000
+      internalID: -3216458217159557763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_35
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 116
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfa302755bd07b70800000000000000
+      internalID: 8894850424088276926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 102
+        width: 93
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1fa7be17c1da3e0800000000000000
+      internalID: -2040943780521381385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_37
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 102
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b61d4e038da3cdf0800000000000000
+      internalID: -161094383262951753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_38
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 107
+        width: 57
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de55c1b160950b330800000000000000
+      internalID: 3724574774594917869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_39
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 108
+        width: 56
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325eb976f0dc50660800000000000000
+      internalID: 7351507432798676259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_40
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 72
+        width: 79
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 401d9b93fcda5bc10800000000000000
+      internalID: 2068750709384925444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_41
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 100
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfa476a4b699c370800000000000000
+      internalID: 8343365487311499186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_42
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 83
+        width: 42
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52034ea20f12dcab0800000000000000
+      internalID: -4986291897033805787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_43
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 95
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae9e116e911dbe90800000000000000
+      internalID: -7008426073186722135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 78
+        width: 62
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa229fde635c4f20800000000000000
+      internalID: 3408190753675029238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_45
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 81
+        width: 47
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ba7c59811f4e50800000000000000
+      internalID: 6795669644385104783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 80
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498def0e48d618f0800000000000000
+      internalID: -570030473029514931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 58
+        width: 115
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38fc3f2b8fdaba10800000000000000
+      internalID: 1926097579540281404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_48
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 45
+        width: 83
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d81a69ac24129c0800000000000000
+      internalID: -3953805559976588014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_49
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 71
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abf3572253ac47e0800000000000000
+      internalID: -1779868179475727451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_50
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 70
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5c429ca39b70310800000000000000
+      internalID: 1371268273691477408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_51
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 82
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a805d7c644abdf0800000000000000
+      internalID: -163743203696014754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_52
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 45
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0592a62b160f240800000000000000
+      internalID: 4823462619826966745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_53
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 29
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc16c8f7065cc790800000000000000
+      internalID: -7508531886494966604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_54
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 54
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc6828d02a0d5660800000000000000
+      internalID: 7376062900884499647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_55
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73039a5713890fa20800000000000000
+      internalID: 3094140282198372407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_56
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 55
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134549e7634082bf0800000000000000
+      internalID: -349024339022818255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_57
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 23
+        width: 139
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4cb2ef7175e3b20800000000000000
+      internalID: 3116023752747107553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 17
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cddda213a933010800000000000000
+      internalID: 1167446264382348347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 9
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf8357973d78d6a0800000000000000
+      internalID: -6424247190728503357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 24
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a42922aa5803560800000000000000
+      internalID: 7291474762483780157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 17
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60075c89f3cab5160800000000000000
+      internalID: 7015390233705672710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_62
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 8
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9dc8f69710c2580800000000000000
+      internalID: -8850697546615694940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_63
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210898587c0474810800000000000000
+      internalID: 1749438205939777554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_64
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 8
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cee9cced8090420800000000000000
+      internalID: 2596616413164530688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bubble_Break_4_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea929c6696fc110800000000000000
+      internalID: 1283360309006413341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bubble_Break_4_0: 5529748885438223928
+      Bubble_Break_4_1: 4590563818199727924
+      Bubble_Break_4_10: 2028116054974770565
+      Bubble_Break_4_11: 8326281985399103646
+      Bubble_Break_4_12: 4000502322547977210
+      Bubble_Break_4_13: 6073123283983918179
+      Bubble_Break_4_14: -2587532514153584643
+      Bubble_Break_4_15: -5646558020341512972
+      Bubble_Break_4_16: 5103274652047795164
+      Bubble_Break_4_17: 2041946538673552816
+      Bubble_Break_4_18: -6677888814753023569
+      Bubble_Break_4_19: 309817917705475784
+      Bubble_Break_4_2: -2274339856598847244
+      Bubble_Break_4_20: -1313848748333888241
+      Bubble_Break_4_21: 7570480554951064773
+      Bubble_Break_4_22: 8042754288870441386
+      Bubble_Break_4_23: -5211379786215687763
+      Bubble_Break_4_24: -1626170411840821682
+      Bubble_Break_4_25: 917473709833396720
+      Bubble_Break_4_26: 3723845434957890521
+      Bubble_Break_4_27: -2169008180574750182
+      Bubble_Break_4_28: 1135747066928114930
+      Bubble_Break_4_29: 498549052013225896
+      Bubble_Break_4_3: 7723246760129633211
+      Bubble_Break_4_30: 2900703681753526267
+      Bubble_Break_4_31: 876892933584886790
+      Bubble_Break_4_32: -8643372904419912840
+      Bubble_Break_4_33: 8507690975388068390
+      Bubble_Break_4_34: -3216458217159557763
+      Bubble_Break_4_35: 8894850424088276926
+      Bubble_Break_4_36: -2040943780521381385
+      Bubble_Break_4_37: -161094383262951753
+      Bubble_Break_4_38: 3724574774594917869
+      Bubble_Break_4_39: 7351507432798676259
+      Bubble_Break_4_4: 7421406650547330259
+      Bubble_Break_4_40: 2068750709384925444
+      Bubble_Break_4_41: 8343365487311499186
+      Bubble_Break_4_42: -4986291897033805787
+      Bubble_Break_4_43: -7008426073186722135
+      Bubble_Break_4_44: 3408190753675029238
+      Bubble_Break_4_45: 6795669644385104783
+      Bubble_Break_4_46: -570030473029514931
+      Bubble_Break_4_47: 1926097579540281404
+      Bubble_Break_4_48: -3953805559976588014
+      Bubble_Break_4_49: -1779868179475727451
+      Bubble_Break_4_5: 5685717182680052724
+      Bubble_Break_4_50: 1371268273691477408
+      Bubble_Break_4_51: -163743203696014754
+      Bubble_Break_4_52: 4823462619826966745
+      Bubble_Break_4_53: -7508531886494966604
+      Bubble_Break_4_54: 7376062900884499647
+      Bubble_Break_4_55: 3094140282198372407
+      Bubble_Break_4_56: -349024339022818255
+      Bubble_Break_4_57: 3116023752747107553
+      Bubble_Break_4_58: 1167446264382348347
+      Bubble_Break_4_59: -6424247190728503357
+      Bubble_Break_4_6: 3848225920531722309
+      Bubble_Break_4_60: 7291474762483780157
+      Bubble_Break_4_61: 7015390233705672710
+      Bubble_Break_4_62: -8850697546615694940
+      Bubble_Break_4_63: 1749438205939777554
+      Bubble_Break_4_64: 2596616413164530688
+      Bubble_Break_4_65: 1283360309006413341
+      Bubble_Break_4_7: -2888862386622668912
+      Bubble_Break_4_8: -5631432412239358
+      Bubble_Break_4_9: -8692926253205999111
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
