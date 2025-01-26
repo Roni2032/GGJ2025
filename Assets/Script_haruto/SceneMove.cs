@@ -1,8 +1,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class ChangeScene : MonoBehaviour
+public class SceneMove : MonoBehaviour
 {
+    [SerializeField]
     string sceneName;
     public void Change()
     {

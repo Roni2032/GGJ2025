@@ -9,6 +9,7 @@ public class Bubble : MonoBehaviour
     {
         isBurst = true;
         this.gameObject.SetActive(false);
+        SoundManager.GetInstance().PlaySE(SoundManager.SE.BOBBLE_BURST);
         //animator.SetTrigger("");
     }
     void Start()

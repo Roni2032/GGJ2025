@@ -27,26 +27,30 @@ public class CameraMove : MonoBehaviour
         if (!isFreezeX)
         {
             pos.x = player.transform.position.x;
-            if(pos.x + cameraHalfSize.x > stageEdgeMax.x)
-            {
-                pos.x = stageEdgeMax.x - cameraHalfSize.x;
-            }
-            if(pos.x - cameraHalfSize.x < stageEdgeMin.x)
-            {
-                pos.x = stageEdgeMin.x + cameraHalfSize.x;
-            }
+            pos.x = Mathf.Min(pos.x, stageEdgeMax.x - cameraHalfSize.x);
+            pos.x = Mathf.Max(pos.x, stageEdgeMin.x + cameraHalfSize.x);
+            //if(pos.x + cameraHalfSize.x > stageEdgeMax.x)
+            //{
+            //    pos.x = stageEdgeMax.x - cameraHalfSize.x;
+            //}
+            //if(pos.x - cameraHalfSize.x < stageEdgeMin.x)
+            //{
+            //    pos.x = stageEdgeMin.x + cameraHalfSize.x;
+            //}
         }
         if (!isFreezeY)
         {
             pos.y = player.transform.position.y;
-            if (pos.y + cameraHalfSize.y > stageEdgeMax.y)
-            {
-                pos.y = stageEdgeMax.y - cameraHalfSize.y;
-            }
-            if (pos.y - cameraHalfSize.y < stageEdgeMin.y)
-            {
-                pos.y = stageEdgeMin.y + cameraHalfSize.y;
-            }
+            pos.y = Mathf.Min(pos.y, stageEdgeMax.y - cameraHalfSize.y);
+            pos.y = Mathf.Max(pos.y, stageEdgeMin.y + cameraHalfSize.y);
+            //if (pos.y + cameraHalfSize.y > stageEdgeMax.y)
+            //{
+            //    pos.y = stageEdgeMax.y - cameraHalfSize.y;
+            //}
+            //if (pos.y - cameraHalfSize.y < stageEdgeMin.y)
+            //{
+            //    pos.y = stageEdgeMin.y + cameraHalfSize.y;
+            //}
         }
 
         transform.position = pos;

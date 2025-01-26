@@ -29,7 +29,7 @@ public class Goal : MonoBehaviour
         if(collision.gameObject.tag == "Player")
         {
             isArrivedPlayer = true;
-            Debug.Log("go----------ru");
+            ChangeClearResult();
         }
     }
 }
