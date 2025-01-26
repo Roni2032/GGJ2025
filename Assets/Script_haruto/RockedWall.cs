@@ -24,11 +24,10 @@ public class RockedWall : MonoBehaviour
             Player player = collision.gameObject.GetComponentInParent<Player>();
             if (player != null)
             {
-                Destroy(this.gameObject);
                 if (player.FindItem("key"))
                 {
                     player.useItem("key");
-                    
+                    Destroy(this.gameObject);
                 }
             }
             

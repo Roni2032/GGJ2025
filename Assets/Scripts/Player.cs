@@ -41,6 +41,11 @@ public class Player:MonoBehaviour
                 usedItem = item;
             }
         }
+        itemCount--;
+        if(itemCount < 0)
+        {
+            itemCount = 0;
+        }
         items.Remove(usedItem);
     }
     private void Start()
