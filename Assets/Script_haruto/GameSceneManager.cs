@@ -1,15 +1,12 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class SceneMove : MonoBehaviour
+public class GameSceneManager : MonoBehaviour
 {
-    public void Change()
-    {
-        SceneManager.LoadScene(GameSceneManager.lastPlaySceneName);
-    }
+    public static string lastPlaySceneName;
     void Start()
     {
-        
+        lastPlaySceneName = SceneManager.GetActiveScene().name;
     }
 
     // Update is called once per frame

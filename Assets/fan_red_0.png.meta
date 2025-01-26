@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fan_red_0_0: 984543220488329867
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
