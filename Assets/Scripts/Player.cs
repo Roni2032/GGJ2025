@@ -1,4 +1,6 @@
+using NUnit.Framework;
 using System;
+using System.Collections.Generic;
 using Unity.Mathematics.Geometry;
 using UnityEngine;
 using Math = System.Math;
@@ -11,8 +13,31 @@ public class Player:MonoBehaviour
     SpriteRenderer spriteRenderer;
     PlayerHitWall playerHit;
     private float inputHorizontal;
+    private List<Item> items;
     private int itemCount = 0;
     private const float kGravity = 9.8f;
+
+    public bool FindItem(string name)
+    {
+        foreach (var item in items)
+        {
+            if (item.name == name)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    public void useItem(string name)
+    {
+        foreach (var item in items)
+        {
+            if (item.name == name)
+            {
+                items.Remove(item);
+            }
+        }
+    }
     private void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
@@ -51,7 +76,9 @@ public class Player:MonoBehaviour
     {
         if (other.CompareTag("Item"))
         {
-            other.gameObject.SetActive(false);
+            items.Add(other.GetComponent<Item>());
+            Destroy(other.gameObject);
+            //other.gameObject.SetActive(false);
             itemCount++;
         }
     }
