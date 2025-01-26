@@ -87,6 +87,11 @@ public class Player:MonoBehaviour
         if (other.CompareTag("Item"))
         {
             items.Add(other.GetComponent<Item>());
+            ItemEffect effect = other.GetComponent<ItemEffect>();
+            if (effect != null)
+            {
+                effect.SetOwner(this.gameObject);
+            }
             //Destroy(other.gameObject);
             other.gameObject.SetActive(false);
             itemCount++;

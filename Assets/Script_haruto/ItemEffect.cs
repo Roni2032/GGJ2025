@@ -2,15 +2,45 @@ using UnityEngine;
 
 public class ItemEffect : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
+    bool isMovers = false;
+    GameObject owner;
+    float effectTime = 1.0f;
 
-    // Update is called once per frame
-    void Update()
+    public void SetOwner(GameObject owner)
     {
-        
+        this.owner = owner;
+        isMovers = true;
+    }
+    public bool IsMovers()
+    {
+        return isMovers;
+    }
+    public GameObject GetOwner()
+    {
+        return this.owner;
+    }
+    public void SetEffectTime(float effectTime)
+    {
+        this.effectTime = effectTime;
+    }
+    public virtual void Effect()
+    {
+        EffectTimer();
+    }
+    public void EffectTimer()
+    {
+        if (isMovers)
+        {
+            effectTime -= Time.deltaTime;
+            if (effectTime < 0.0f)
+            {
+                Player player = owner.GetComponent<Player>();
+                if (player != null)
+                {
+                    player.useItem(GetComponent<Item>().GetName());
+                    isMovers = false;
+                }
+            }
+        }
     }
 }
