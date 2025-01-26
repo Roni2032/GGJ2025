@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BubblyPenguin_0: 8099981837991446006
+      BubblyPenguin_1: -3008666055853711265
+      BubblyPenguin_10: -859185177920746233
+      BubblyPenguin_11: -4503857857660186994
+      BubblyPenguin_12: -4599206978176291598
+      BubblyPenguin_13: -2060086757304999287
+      BubblyPenguin_2: -6387103066077149143
+      BubblyPenguin_3: 7615225636896926091
+      BubblyPenguin_4: 1284470905302861738
+      BubblyPenguin_5: 6542895320001154496
+      BubblyPenguin_6: 6628443178402979160
+      BubblyPenguin_7: 8018827764699181902
+      BubblyPenguin_8: -1368433878695533589
+      BubblyPenguin_9: -4158279939060407650
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
