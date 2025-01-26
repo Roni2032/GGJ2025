@@ -115,12 +115,12 @@ TextureImporter:
       name: Enter_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 7
-        width: 26
-        height: 40
+        x: 0
+        y: 0
+        width: 128
+        height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -133,99 +133,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Enter_1
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 7
-        width: 22
-        height: 30
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d27fc7e925ba768d0800000000000000
-      internalID: -2853123467581262035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Enter_2
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 7
-        width: 15
-        height: 37
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 471271b594152ca10800000000000000
-      internalID: 1928192965970698612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Enter_3
-      rect:
-        serializedVersion: 2
-        x: 81
-        y: 7
-        width: 23
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06921e14ccdfec730800000000000000
-      internalID: 4021430571008862560
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Enter_4
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 7
-        width: 15
-        height: 29
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b58b6fa2aedb612a0800000000000000
-      internalID: -6767012576636782501
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 89569e1073c29434aaf67037d0acb407
     internalID: 0
     vertices: []
     indices: 

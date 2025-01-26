@@ -127,12 +127,12 @@ TextureImporter:
       name: GameClear_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 39
-        width: 31
-        height: 57
+        x: 0
+        y: 0
+        width: 256
+        height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -145,187 +145,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: GameClear_1
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 39
-        width: 22
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3a920e6b8b374a780800000000000000
-      internalID: -8672679745229411933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_2
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 38
-        width: 33
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd12d890e2769f9d0800000000000000
-      internalID: -2740045450851835429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_3
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 39
-        width: 23
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 436cf5b3cd05b2e80800000000000000
-      internalID: -8202373389506066892
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_4
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 39
-        width: 30
-        height: 58
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e92ed2ea405adc2a0800000000000000
-      internalID: -6715530029818846562
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_5
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 39
-        width: 8
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4dc23cbd79f850de0800000000000000
-      internalID: -1367529029447242540
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_6
-      rect:
-        serializedVersion: 2
-        x: 183
-        y: 39
-        width: 23
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bda82d8b6d4e7c910800000000000000
-      internalID: 1857704982188559067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_7
-      rect:
-        serializedVersion: 2
-        x: 210
-        y: 39
-        width: 22
-        height: 43
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb667bdbf97012a00800000000000000
-      internalID: 729872997274838716
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: GameClear_8
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 39
-        width: 15
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44da380b6ddb0b780800000000000000
-      internalID: -8669220552906134204
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 0eeb02510849d6f4888390b2d544822b
     internalID: 0
     vertices: []
     indices: 

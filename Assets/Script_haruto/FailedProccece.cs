@@ -11,7 +11,7 @@ public class FailedProccece : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.anyKey)
+        if (Input.anyKeyDown)
         {
             sceneMove.Change();
         }
