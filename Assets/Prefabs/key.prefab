@@ -11,10 +11,10 @@ GameObject:
   - component: {fileID: 1213695145716886211}
   - component: {fileID: 311413850266249283}
   - component: {fileID: 2050178964740954008}
+  - component: {fileID: -7188521186736592880}
   - component: {fileID: 7057659490548348964}
-  - component: {fileID: 5206267792932667412}
   m_Layer: 0
-  m_Name: Item
+  m_Name: key
   m_TagString: Item
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -79,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 1694913177206695654, guid: 49b85abcc2ae8c84a99fa9764baac098, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -117,6 +117,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-7188521186736592880
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3929697339713386935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbe858cacbe789249a91aecb3beb64fe, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemName: key
+  speed: 0.5
+  offsetY: 0.1
 --- !u!61 &7057659490548348964
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -155,7 +170,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.96, y: 1.67}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -163,18 +178,3 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &5206267792932667412
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3929697339713386935}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: cbe858cacbe789249a91aecb3beb64fe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemName: name
-  speed: 1
-  offsetY: 0

@@ -13,10 +13,13 @@ public class Player:MonoBehaviour
     SpriteRenderer spriteRenderer;
     PlayerHitWall playerHit;
     private float inputHorizontal;
-    private List<Item> items;
+    private List<Item> items = new List<Item>();
     private int itemCount = 0;
     private const float kGravity = 9.8f;
-
+    public List<Item> GetItems()
+    {
+        return items;
+    }
     public bool FindItem(string name)
     {
         foreach (var item in items)
@@ -30,13 +33,15 @@ public class Player:MonoBehaviour
     }
     public void useItem(string name)
     {
+        Item usedItem = null;
         foreach (var item in items)
         {
             if (item.name == name)
             {
-                items.Remove(item);
+                usedItem = item;
             }
         }
+        items.Remove(usedItem);
     }
     private void Start()
     {
@@ -69,7 +74,7 @@ public class Player:MonoBehaviour
         rigidbody2D.AddForce(Vector2.right * inputHorizontal * playerSpeed);
         
         // 上方向に重力未満の力を加えて、力を相殺
-        rigidbody2D.AddForce(Vector2.up * rigidbody2D.mass * kGravity / (itemCount + 1.05f));
+        rigidbody2D.AddForce(Vector2.up * rigidbody2D.mass * kGravity / (itemCount / 2 + 1.05f));
     }
     
     private void OnTriggerEnter2D(Collider2D other)
@@ -77,8 +82,8 @@ public class Player:MonoBehaviour
         if (other.CompareTag("Item"))
         {
             items.Add(other.GetComponent<Item>());
-            Destroy(other.gameObject);
-            //other.gameObject.SetActive(false);
+            //Destroy(other.gameObject);
+            other.gameObject.SetActive(false);
             itemCount++;
         }
     }
