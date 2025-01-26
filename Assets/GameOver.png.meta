@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c685a5fe9b9d3754d8c8ba43b0f02288
+guid: 77a5cae60ac9173438b3be5d80255323
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -309,15 +309,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      GameOver_0: -6899527831451061053
-      GameOver_1: 4804125648906539500
-      GameOver_2: -263511437403757397
-      GameOver_3: -7739051205162100772
-      GameOver_4: -7782269141841453749
-      GameOver_5: 2417089973929048815
-      GameOver_6: -8195210154822383127
-      GameOver_7: -7558324183008474240
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

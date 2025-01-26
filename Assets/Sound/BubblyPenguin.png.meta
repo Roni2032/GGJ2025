@@ -44,18 +44,6 @@ TextureImporter:
   - first:
       213: -2060086757304999287
     second: BubblyPenguin_13
-  - first:
-      213: 767156765952862554
-    second: BubblyPenguin_14
-  - first:
-      213: 1510426177451589889
-    second: BubblyPenguin_15
-  - first:
-      213: 6333006892073419442
-    second: BubblyPenguin_16
-  - first:
-      213: -3284981508905393040
-    second: BubblyPenguin_17
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -154,10 +142,10 @@ TextureImporter:
       name: BubblyPenguin_0
       rect:
         serializedVersion: 2
-        x: 56
-        y: 734
-        width: 135
-        height: 206
+        x: 20
+        y: 624
+        width: 167
+        height: 256
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -176,10 +164,10 @@ TextureImporter:
       name: BubblyPenguin_1
       rect:
         serializedVersion: 2
-        x: 201
-        y: 907
-        width: 154
-        height: 64
+        x: 237
+        y: 623
+        width: 130
+        height: 183
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -198,10 +186,10 @@ TextureImporter:
       name: BubblyPenguin_2
       rect:
         serializedVersion: 2
-        x: 379
-        y: 732
-        width: 110
-        height: 194
+        x: 423
+        y: 621
+        width: 137
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -220,10 +208,10 @@ TextureImporter:
       name: BubblyPenguin_3
       rect:
         serializedVersion: 2
-        x: 524
-        y: 732
-        width: 110
-        height: 194
+        x: 604
+        y: 621
+        width: 137
+        height: 241
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -242,10 +230,10 @@ TextureImporter:
       name: BubblyPenguin_4
       rect:
         serializedVersion: 2
-        x: 668
-        y: 733
-        width: 33
-        height: 190
+        x: 784
+        y: 623
+        width: 40
+        height: 235
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -264,10 +252,10 @@ TextureImporter:
       name: BubblyPenguin_5
       rect:
         serializedVersion: 2
-        x: 822
-        y: 669
-        width: 192
-        height: 258
+        x: 875
+        y: 550
+        width: 130
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,10 +274,10 @@ TextureImporter:
       name: BubblyPenguin_6
       rect:
         serializedVersion: 2
-        x: 229
-        y: 733
-        width: 105
-        height: 148
+        x: 0
+        y: 333
+        width: 125
+        height: 214
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -308,10 +296,10 @@ TextureImporter:
       name: BubblyPenguin_7
       rect:
         serializedVersion: 2
-        x: 741
-        y: 675
-        width: 104
-        height: 199
+        x: 156
+        y: 326
+        width: 115
+        height: 172
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -330,10 +318,10 @@ TextureImporter:
       name: BubblyPenguin_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 486
-        width: 116
-        height: 193
+        x: 804
+        y: 498
+        width: 35
+        height: 44
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +340,10 @@ TextureImporter:
       name: BubblyPenguin_9
       rect:
         serializedVersion: 2
-        x: 143
-        y: 480
-        width: 104
-        height: 155
+        x: 316
+        y: 325
+        width: 112
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -374,10 +362,10 @@ TextureImporter:
       name: BubblyPenguin_10
       rect:
         serializedVersion: 2
-        x: 725
-        y: 635
-        width: 31
-        height: 39
+        x: 474
+        y: 259
+        width: 118
+        height: 228
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,10 +384,10 @@ TextureImporter:
       name: BubblyPenguin_11
       rect:
         serializedVersion: 2
-        x: 288
-        y: 480
-        width: 101
-        height: 150
+        x: 639
+        y: 327
+        width: 116
+        height: 164
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -418,10 +406,10 @@ TextureImporter:
       name: BubblyPenguin_12
       rect:
         serializedVersion: 2
-        x: 429
-        y: 420
-        width: 106
-        height: 205
+        x: 802
+        y: 327
+        width: 38
+        height: 159
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -440,10 +428,10 @@ TextureImporter:
       name: BubblyPenguin_13
       rect:
         serializedVersion: 2
-        x: 576
-        y: 481
-        width: 105
-        height: 148
+        x: 889
+        y: 325
+        width: 112
+        height: 167
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -454,94 +442,6 @@ TextureImporter:
       bones: []
       spriteID: 9826950520a1963e0800000000000000
       internalID: -2060086757304999287
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BubblyPenguin_14
-      rect:
-        serializedVersion: 2
-        x: 675
-        y: 258
-        width: 182
-        height: 366
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a5968a9930d75aa00800000000000000
-      internalID: 767156765952862554
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BubblyPenguin_15
-      rect:
-        serializedVersion: 2
-        x: 800
-        y: 480
-        width: 101
-        height: 150
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10104761b9c16f410800000000000000
-      internalID: 1510426177451589889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BubblyPenguin_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 258
-        width: 185
-        height: 202
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b20322f63c53e750800000000000000
-      internalID: 6333006892073419442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: BubblyPenguin_17
-      rect:
-        serializedVersion: 2
-        x: 383
-        y: 218
-        width: 189
-        height: 204
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 074a7f3e8b66962d0800000000000000
-      internalID: -3284981508905393040
       vertices: []
       indices: 
       edges: []
