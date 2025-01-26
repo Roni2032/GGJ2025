@@ -40,5 +40,9 @@ public class SelectBubble : MonoBehaviour
             }
             transform.position = pos;
         }
+        else
+        {
+            transform.position = originPosition;
+        }
     }
 }

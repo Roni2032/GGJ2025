@@ -8,6 +8,9 @@ public class SelectManager : MonoBehaviour
     List<GameObject> selectList;
     [SerializeField]
     List<GameObject> selectSign;
+
+    private float lastHorizontal = 0;
+    
     void Start()
     {
         
@@ -16,20 +19,24 @@ public class SelectManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        var horizontal = Input.GetAxis("Horizontal");
+        
         if (Input.GetKeyDown(KeyCode.Return))
         {
             selectList[selectNumber].GetComponent<SelectBubble>().Next();
         }
-        if (Input.GetKeyDown(KeyCode.LeftArrow))
+        if (horizontal < 0 && lastHorizontal == 0)
         {
             selectNumber--;
         }
-        if (Input.GetKeyDown(KeyCode.RightArrow))
+        if (horizontal > 0 && lastHorizontal == 0)
         {
             selectNumber++;
         }
+        
         selectNumber = Mathf.Max(0, selectNumber);
         selectNumber = Mathf.Min(selectList.Count - 1, selectNumber);
+        lastHorizontal = horizontal;
         
         for (int i = 0; i < selectList.Count; i++)
         {
