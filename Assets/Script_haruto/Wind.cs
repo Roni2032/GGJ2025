@@ -16,6 +16,9 @@ public class Wind : MonoBehaviour
     {
         
     }
+                
+    const float kMaxVelocityX = 4.0f;
+    const float kMaxVelocityY = 1.5f;
 
     void OnTriggerStay2D(Collider2D collision)
     {
@@ -30,13 +33,13 @@ public class Wind : MonoBehaviour
                 Vector3 pos = collision.transform.position;
                 float distance = Mathf.Abs(pos.y - transform.position.y);
                 float sizeY = GetComponent<BoxCollider2D>().size.y;
-                if(rb.linearVelocityY > 1.5f)
+                
+                var force = windDirection * windPower * Time.deltaTime * (1.0f - (distance / sizeY));
+
+                if (!(Vector2.Dot(force, rb.linearVelocity) > 0 && (rb.linearVelocityY >= kMaxVelocityY ||
+                                                                    rb.linearVelocityX >= kMaxVelocityX)))
                 {
-                    rb.linearVelocityY = 1.5f;
-                }
-                else
-                {
-                    rb.AddForce(windDirection * windPower * Time.deltaTime * (1.0f - (distance / sizeY)));
+                    rb.AddForce(force);
                 }
             }
         }
