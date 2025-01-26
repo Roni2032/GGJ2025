@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5899d48f3c4326a45a68930e09f505c0
+guid: 7d8a246ade206f0459fa3e94091976f7
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -149,7 +149,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 69b162f88c7639b44957b797fe7fc0cf
+    spriteID: 0eeb02510849d6f4888390b2d544822b
     internalID: 0
     vertices: []
     indices: 
@@ -160,6 +160,14 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       GameClear_0: 1536380896892045753
+      GameClear_1: -8672679745229411933
+      GameClear_2: -2740045450851835429
+      GameClear_3: -8202373389506066892
+      GameClear_4: -6715530029818846562
+      GameClear_5: -1367529029447242540
+      GameClear_6: 1857704982188559067
+      GameClear_7: 729872997274838716
+      GameClear_8: -8669220552906134204
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

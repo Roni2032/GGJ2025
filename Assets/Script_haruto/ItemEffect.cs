@@ -4,6 +4,7 @@ public class ItemEffect : MonoBehaviour
 {
     bool isMovers = false;
     GameObject owner;
+    [SerializeField]
     float effectTime = 1.0f;
 
     public void SetOwner(GameObject owner)
