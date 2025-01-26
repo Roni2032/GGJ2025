@@ -22,8 +22,10 @@ public class RockedWall : MonoBehaviour
         if(collision.gameObject.tag == "useItem")
         {
             Player player = collision.gameObject.GetComponentInParent<Player>();
+            PlayerHitWall hit = collision.gameObject.GetComponent<PlayerHitWall>();
             if (player != null)
             {
+                if (hit != null && hit.GetIsBurst()) return;
                 if (player.FindItem("key"))
                 {
                     player.useItem("key");

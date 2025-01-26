@@ -35,6 +35,7 @@ public class PlayerHitWall : MonoBehaviour
             else
             {
                 GetComponent<Rigidbody2D>().linearVelocityY = 0.0f;
+                GetComponent<Rigidbody2D>().linearVelocityX = 0.0f;
             }
         }
     }
@@ -45,6 +46,6 @@ public class PlayerHitWall : MonoBehaviour
         animator.SetTrigger("burst");
 
         isBurst = true;
-        GetComponent<CircleCollider2D>().radius = afterBurstCollisionRadius;
+        GetComponent<CircleCollider2D>().isTrigger = true;
     }
 }
